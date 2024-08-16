@@ -3,6 +3,9 @@
 ## 📜 TL;DR
 In a nutshell, you're building a Python workflow for Question Answering of YouTube videos using AssemblyAI's LeMUR and Claude 3.5 Sonnet.
 
+## 🍿 Watch tutorial video
+Tutorial video is available at {URL to be pasted here}
+
 ## 🛠️ Tech stack
 - yt-dlp - Command-line audio/video downloader
 - AssemblyAI - Audio processing and analysis
